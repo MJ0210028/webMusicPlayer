@@ -1,5 +1,7 @@
 # webMusicPlayer
 
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+> 選擇歌曲介面
+![](https://github.com/MJ0210028/webMusicPlayer/blob/master/pics/001.PNG)
 
-> Follow your heart.
+> 播放介面
+![](https://github.com/MJ0210028/webMusicPlayer/blob/master/pics/002.PNG)
